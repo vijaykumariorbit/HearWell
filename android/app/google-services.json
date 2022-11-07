@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "74675969131",
+    "project_id": "hearwell-8e02e",
+    "storage_bucket": "hearwell-8e02e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74675969131:android:9ea40f016701548cd0652e",
+        "android_client_info": {
+          "package_name": "com.hearwell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74675969131-ugjtr9qq8opm4luitgprjf2cr0l0011b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hearwell",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "74675969131-094ovgkc4o2qvqk8rh2t8datpm6rto4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrjJw8opdXQnLslpwR0aUZ_eKudOLAojE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74675969131-094ovgkc4o2qvqk8rh2t8datpm6rto4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
